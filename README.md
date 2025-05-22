@@ -14,4 +14,7 @@ Le produit est listé à **0€** grâce à notre système d’auto-achat.
 💬 Dès que vous avez votre licence, n’hésitez pas à me contacter en message privé pour toute aide ou question !
 
 Profitez bien et bon check ! 🚀
-https://github.com/kitbot14/token-checker-avec-gui/blob/main/image.png?raw=true
+
+---
+
+![Discord Token Checker Pro](https://github.com/kitbot14/token-checker-avec-gui/blob/main/image.png?raw=true)
